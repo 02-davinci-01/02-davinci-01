@@ -13,11 +13,11 @@
 ## 808s
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/album/7H7UxuxjGSJuV7LcCFUxTD)
-[![Static Badge](https://img.shields.io/badge/immunity-John_Hopkins-%20?style=for-the-badge&labelColor=191919&color=B0371E)](https://open.spotify.com/album/7H7UxuxjGSJuV7LcCFUxTD)
-![Static Badge](https://img.shields.io/badge/Crush-Floating_Points-%20?style=for-the-badge&labelColor=EBEDED&color=59AEBD&link=https%3A%2F%2Fopen.spotify.com%2Falbum%2F1WwZwdTICfaZI51BIIEN9z)
+![Static Badge](https://img.shields.io/badge/DeB%C3%8D%20TiRAR%20M%C3%A1S%20FOToS-BAD_BUNNY-%20%20?style=for-the-badge&labelColor=333&color=%2366bf26)
 
-## I.F.I.W.B
-![Static Badge](https://img.shields.io/badge/Memory_Dreams_Reflections-Carl_Jung-%20?style=for-the-badge&labelColor=171616&color=EB67C1&link=https%3A%2F%2Fopen.spotify.com%2Falbum%2F1WwZwdTICfaZI51BIIEN9z)
+
+## I.F.I.W.B.F
+![Static Badge](https://img.shields.io/badge/DEATH'S_END-Liu_Cixin-%20%20?style=for-the-badge&labelColor=333&color=%230087b8)
 
 
 ## 📊 GitHub Stats:
